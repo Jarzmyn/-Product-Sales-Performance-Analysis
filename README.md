@@ -1,7 +1,7 @@
-# 📊 Product Sales Performance Analysis
+# 📊 Product Performance Analysis
 
 ## Project Overview
-Welcome to the **Product Sales Performance Analysis**! This interactive Power BI report provides a deep dive into **product performance, regional sales trends, customer satisfaction, and profitability** for **Company H**. The analysis covers data from 2022 to 2024 and highlights both strengths and challenges, with a special focus on improving decision-making for better financial health and customer satisfaction!
+Welcome to the **Product Performance Analysis**! This interactive Power BI report provides a deep dive into **product performance, regional sales trends, customer satisfaction, and profitability** for **Company H**. The analysis covers data from 2022 to 2024 and highlights both strengths and challenges, with a special focus on improving decision-making for better financial health and customer satisfaction!
 
 ## What’s Inside?
 - **Power BI Report (.pbix)** - Interactive Power BI dashboard with insights.
