@@ -20,6 +20,11 @@ Welcome to the **Product Performance Analysis**! This interactive Power BI repor
 - **Product Analysis** - Top/bottom products by sales and profit margin.
 - **Customer Feedback** - Ratings and satisfaction levels with room for quality enhancement.
 
+## Recommended Next Steps
+- **Cut Costs** - Analyze and reduce key expenses.
+- **Improve Quality Control** - Address quality issues for low-rated products to reduce refunds and improve satisfaction.
+- **Focus on High-Demand Products** - Prioritize high-margin, high-demand products for growth.
+
 ## 📌 Key Steps Implemented:
 - **Data Importation** - Imported data from Excel into Power BI.
 - **Data Transformation** - Cleaned and transformed data using Power Query Editor for accuracy and consistency.
@@ -36,9 +41,3 @@ Welcome to the **Product Performance Analysis**! This interactive Power BI repor
 
 > **Note**: Use the PDF for a quick summary, but the `.pbix` file is where the real interactive magic happens!
 
-## Recommended Next Steps
-- **Cut Costs** - Analyze and reduce key expenses.
-- **Improve Quality Control** - Address quality issues for low-rated products to reduce refunds and improve satisfaction.
-- **Focus on High-Demand Products** - Prioritize high-margin, high-demand products for growth.
-
-Feel free to explore and draw your own insights. We hope this report is a valuable tool in making data-driven decisions for better product and customer strategies!
