@@ -20,6 +20,15 @@ Welcome to the **Product Performance Analysis**! This interactive Power BI repor
 - **Product Analysis** - Top/bottom products by sales and profit margin.
 - **Customer Feedback** - Ratings and satisfaction levels with room for quality enhancement.
 
+## 📌 Key Steps Implemented:
+- **Data Importation** - Imported data from Excel into Power BI.
+- **Data Transformation** - Cleaned and transformed data using Power Query Editor for accuracy and consistency.
+- **Data Modeling** - Established relationships between tables for efficient data interaction and analysis.
+- **DAX Formulation** - Created custom columns and measures using DAX for deeper analysis.
+- **Visual Analysis & KPIs** - Developed insightful visuals and calculated key performance indicators.
+- **Background Design** - Designed an engaging background layout tailored for Company H.
+- **User-Friendly Layout** - Crafted an accessible dashboard layout suitable for technical and non-technical stakeholders.
+
 ## Usage Instructions
 1. **Download the `.pbix` file** from this repository.
 2. Open in **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** for full interactivity.
